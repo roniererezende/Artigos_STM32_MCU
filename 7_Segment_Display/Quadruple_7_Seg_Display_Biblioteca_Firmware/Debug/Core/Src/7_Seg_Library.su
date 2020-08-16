@@ -1,0 +1,3 @@
+7_Seg_Library.c:18:6:showDigit	16	static
+7_Seg_Library.c:188:6:showNumber	16	static
+7_Seg_Library.c:228:6:turnOffdisplay	8	static
